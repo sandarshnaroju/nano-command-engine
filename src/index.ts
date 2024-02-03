@@ -73,7 +73,7 @@ const runCommands = (commands: commandObject[], progress, finished) => {
   }
 };
 
-// Example usage:
+
 
 export const run = (commandsArray: commandObject[], progress, finished) => {
   if (
